@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Stephen Hage's Data Science Site
 
-You can use the [editor on GitHub](https://github.com/stephenhage/stephenhage.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+As I approach the end of my coursework for my [Master of Science in Predictive Analytics](https://webdev.sps.northwestern.edu/program-areas/graduate/predictive-analytics/), I've started thinking about how I can share some of what I've learned with aspiring practitioners. I've had the good fortune of working on text analysis and computer vision and deep learning for forecasting under the tutelage of experts like [Dr. Larry Fulton](https://scholar.google.ru/citations?user=3vyiv1UAAAAJ&hl=en) and [Dr. Thomas Miller](https://www.mastersindatascience.org/blog/northwestern-ms-predictive-analytics-online/). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am hopeful that perhasp some of the tutorials I write will shortcut learning for some, or reinforce understanding for others, or challenge previously-held beliefs based on the data. 
 
-### Markdown
+### Goals
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am interested in many different topics, and I trust that over time that will play out with some innovative and fun analyses. These include:
+- Sports
+- Health
+- Culture
+- Language
+- Food
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stephenhage/stephenhage.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I've also been known to compete at [Kaggle](https://www.kaggle.com/stephenhage) from time to time.
