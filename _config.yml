@@ -1,5 +1,19 @@
-theme: jekyll-theme-cayman
-name: Stephen Hage Data Scientist
+# Setup
+title:        Stephen Hage's Data Science Site
+tagline:      A collection of my data science projects
+baseurl:      ""
+paginate:     1
+locale:       "en"
+
+# About/contact
+author:
+  name:       Stephen Hage
+  url:        https://stephenhage.github.io
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
 markdown: kramdown
-plugins:
-  - jekyll-feed
+
