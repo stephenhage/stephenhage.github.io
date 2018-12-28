@@ -18,8 +18,8 @@ gems:
 markdown: kramdown
 
 # Plugins
-# plugins: jekyll-include-cache
-
+plugins:
+  - jekyll-default-layout
 
 # remote_theme: "mmistakes/minimal-mistakes@4.14.1"
 permalink: /projects/:year/:month/:day/:title
