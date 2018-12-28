@@ -19,3 +19,4 @@ markdown: kramdown
 
 
 theme: jekyll-theme-cayman
+permalink: /projects/:year/:month/:day/:title
