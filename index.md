@@ -1,5 +1,6 @@
 ---
 layout: default
+theme: cayman
 title: Stephen Hage's Data Science Site
 ---
 As I approach the end of my coursework for my [Master of Science in Predictive Analytics](https://webdev.sps.northwestern.edu/program-areas/graduate/predictive-analytics/), I've started thinking about how I can share some of what I've learned with aspiring practitioners. I've had the good fortune of working on text analysis and computer vision and deep learning for forecasting under the tutelage of experts like [Dr. Larry Fulton](https://scholar.google.ru/citations?user=3vyiv1UAAAAJ&hl=en) and [Dr. Thomas Miller](https://www.mastersindatascience.org/blog/northwestern-ms-predictive-analytics-online/). 
