@@ -45,12 +45,13 @@ title: Resume
 + Studied international business in Milan, Italy, with emphasis on innovation management
 
 # TECHNICAL SKILLS
-**Python**: Wrote web scrapers to collect data, utilized Pandas for data analysis and reporting automation
-**R**: Performed statistical analysis of large data sets, including evaluation of promotion success and client seasonality
-**Keras**: Built image recognition, text analytics and time series models for scenario-based forecasts
-**SQL**: Mastery of relational databases, designed query templates for fast and accurate reporting
-**Hive**: Wrote and standardized queries connecting multiple databases to map customer shopping behavior
-**Project Management**: Initiated, planned and executed projects ranging from web scrapers to fraud detection
++ **Python**: Wrote web scrapers to collect data, utilized Pandas for data analysis and reporting automation
++ **R**: Performed statistical analysis of large data sets, including evaluation of promotion success and client seasonality
++ **Keras**: Built image recognition, text analytics and time series models for scenario-based forecasts
++ **SQL**: Mastery of relational databases, designed query templates for fast and accurate reporting
++ **Hive**: Wrote and standardized queries connecting multiple databases to map customer shopping behavior
++ **Project Management**: Initiated, planned and executed projects ranging from web scrapers to fraud detection
 
 **[Email me](mailto:stephen.hage+github@gmail.com)**
+
 **[Connect on LinkedIn!](https://www.linkedin.com/in/stephenhage/){:target="_blank"}**
