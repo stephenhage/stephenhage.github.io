@@ -3,11 +3,7 @@ layout: post
 title: "NFL Draft 2018"
 date: 2018-04-26 11:21:50 -0600
 categories: content
-tags: [sports, sports analytics, nfl draft]
-image:
-  feature: texture-feature-02.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+tags: sports sportsanalytics nfldraft python
 ---
 
 
@@ -70,4 +66,4 @@ I included the 95% confidence interval so that, after the Draft, I'll have a bas
 
 
 
-![NFL Draft 2018 Big Board](/2018draft.pdf)
+![NFL Draft 2018 Big Board](https://github.com/stephenhage/stephenhage.github.io/blob/master/images/draft2018/2018draft.pdf)
