@@ -301,4 +301,4 @@ for n_axs, (type_name, type_rows) in zip(m_axs,
 ```
 
 ### skinimages
-~[skin images](https://github.com/stephenhage/stephenhage.github.io/blob/master/images/hmnist/hmnist_imgs.png?raw=true)
+![skin images](https://github.com/stephenhage/stephenhage.github.io/blob/master/images/hmnist/hmnist_imgs.png?raw=true)
