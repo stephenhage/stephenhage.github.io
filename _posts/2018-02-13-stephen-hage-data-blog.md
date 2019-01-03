@@ -1,13 +1,9 @@
 ---
-layout: post
+layout: default
 title:  "Intersection of My Interests and Data"
 date:   2018-02-13 14:46:43 -0600
 categories: content
-tags: ["data science"]
-image:
-  feature: texture-feature-04.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+tags: data science
 ---
 
 # Introducing Myself
