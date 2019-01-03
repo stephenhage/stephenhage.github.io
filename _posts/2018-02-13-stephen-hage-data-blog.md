@@ -3,7 +3,7 @@ layout: default
 title:  "Intersection of My Interests and Data"
 date:   2018-02-13 14:46:43 -0600
 categories: content
-tags: data science
+tags: datascience
 ---
 
 # Introducing Myself
