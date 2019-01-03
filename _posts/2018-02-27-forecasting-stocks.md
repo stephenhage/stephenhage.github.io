@@ -3,7 +3,7 @@ layout: default
 title: "Forecasting My Stocks"
 date: 2018-02-27 11:21:50 -0600
 categories: content
-tags: forecasting, stocks, arima, holt-winters, statistics, R
+tags: forecasting stocks arima holt-winters statistics R
 ---
 
 
