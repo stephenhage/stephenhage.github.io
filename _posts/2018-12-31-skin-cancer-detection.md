@@ -163,7 +163,7 @@ loss, accuracy = model.evaluate(x_test, y_test, verbose = 1)
 
 makeplots(history)
 ```
-<img src="https://github.com/stephenhage/stephenhage.github.io/blob/master/images/hmnist/model1img.png"/>
+![Model 1](https://github.com/stephenhage/stephenhage.github.io/blob/master/images/hmnist/model1img.png "Model 1")
 
 ### Deeper Model
 This next iteration adds two more convolutional layers, though max pooling is not used on each because of the scaled down images. In addition to the increase in convolutional layers, it also increases the size of the fully-connected layer, and adds another fully-connected layer before flattening. Because this deeper model is computationally more expensive and prone to overfitting, callbacks are utilized for early stopping if accuracy doesn’t improve after two epochs. It also lowers the learning rate after ten epochs if the validation loss is static. As it turns out, this model surpasses 68% accuracy within seven epochs, though that is about as accurate as this model gets.
