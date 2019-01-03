@@ -9,6 +9,7 @@ locale:       "en"
 author:
   name:       Stephen Hage
   url:        https://stephenhage.github.io
+  google_analytics: UA—76653206-2
 
 # Gems
 gems:
