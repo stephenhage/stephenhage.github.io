@@ -9,7 +9,9 @@ locale:       "en"
 author:
   name:       Stephen Hage
   url:        https://stephenhage.github.io
-  google_analytics: UA—76653206-2
+
+# Google Analytics
+google_analytics: UA—76653206-2
 
 # Gems
 gems:
@@ -24,6 +26,6 @@ markdown: kramdown
 plugins:
   - jekyll-default-layout
 
-remote_theme: "mmistakes/minimal-mistakes@4.14.1"
+#remote_theme: "mmistakes/minimal-mistakes@4.14.1"
 permalink: /projects/:year/:month/:day/:title
 
