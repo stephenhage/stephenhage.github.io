@@ -163,7 +163,7 @@ loss, accuracy = model.evaluate(x_test, y_test, verbose = 1)
 
 makeplots(history)
 ```
-![model1](https://github.com/stephenhage/stephenhage.github.io/blob/master/images/hmnist/model1img.png)
+<img src="https://github.com/stephenhage/stephenhage.github.io/blob/master/images/hmnist/model1img.png"/>
 
 ### Deeper Model
 This next iteration adds two more convolutional layers, though max pooling is not used on each because of the scaled down images. In addition to the increase in convolutional layers, it also increases the size of the fully-connected layer, and adds another fully-connected layer before flattening. Because this deeper model is computationally more expensive and prone to overfitting, callbacks are utilized for early stopping if accuracy doesn’t improve after two epochs. It also lowers the learning rate after ten epochs if the validation loss is static. As it turns out, this model surpasses 68% accuracy within seven epochs, though that is about as accurate as this model gets.
@@ -207,8 +207,7 @@ loss, accuracy = model.evaluate(x_test, y_test, verbose = 1)
 
 makeplots(history)
 ```
-![model2](https://github.com/stephenhage/stephenhage.github.io/blob/master/images/hmnist/model2img.png)
-
+<img src="https://github.com/stephenhage/stephenhage.github.io/blob/master/images/hmnist/model2img.png"/>
 
 ### Try predictions wtih xgboost
  It is at least plausible that the image in combination with the known gender or localization of the image, would yield more information than the image alone. Therefore, an xgboost and a logistic regression model were fit to the non-image data. The predictions made from those two models were given varying weights along with the deep CNN model to see if it could top the 68% accuracy mark. The best accuracy rate achieved through this process was still at 68%.
@@ -278,7 +277,7 @@ history = model.fit_generator(
     callbacks = [early_stopping, red_lr])
 loss, accuracy = model.evaluate(x_test, y_test, verbose = 1)
 ```
-![model3](https://github.com/stephenhage/stephenhage.github.io/blob/master/images/hmnist/model3img.png)
+<img src="https://github.com/stephenhage/stephenhage.github.io/blob/master/images/hmnist/model3img.png"/>
 
 ### Recommendations
 Some popular science articles of late have claimed that CNN models can correctly classify cancer types with 95% or higher accuracy. It is very likely that those models have access to more images than this dataset has. If one were to simply classify every image as melanocytic nevi, he or she could claim about 66% accuracy. The most successful model in this set was less than 2.5% better. 
@@ -302,4 +301,4 @@ for n_axs, (type_name, type_rows) in zip(m_axs,
 ```
 
 ### skinimages
-![sample skin lesion images NSFW](https://github.com/stephenhage/stephenhage.github.io/blob/master/images/hmnist/hmnist_imgs.png)
+<img src="https://github.com/stephenhage/stephenhage.github.io/blob/master/images/hmnist/hmnist_imgs.png"/>
