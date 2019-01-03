@@ -1,6 +1,7 @@
 ---
 title: Skin Cancer Classifier from Images
 layout: post
+tags: python healthcare keras deeplearning
 ---
 ## Introduction
 Skin cancer affected 3 million people in the United States in 2012, with skin cancers accounting for more cancer diagnoses than all other types combined (PR Newswire, 2018). Even though much has been made of skin cancer awareness, with campaigns to persuade people to take preventative measures, it is both an enormous health risk for Americans, and a large fiscal cost for individuals and insurance companies.
