@@ -1,13 +1,9 @@
 ---
-layout: post
+layout: default
 title: "Forecasting My Stocks"
 date: 2018-02-27 11:21:50 -0600
 categories: content
-tags: [forecasting, stocks, finance, arima, holt-winters, statistics]
-image:
-  feature: texture-feature-02.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+tags: forecasting, stocks, arima, holt-winters, statistics
 ---
 
 
