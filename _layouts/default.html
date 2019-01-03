@@ -6,7 +6,9 @@
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
 			
 			{% include analytics.html %}
-			
+			{% if site.tags != "" %}
+  			{% include collecttags.html %}
+			{% endif %}
 		</head>
 		<body>
 			<nav>
