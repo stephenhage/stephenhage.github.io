@@ -3,11 +3,7 @@ layout: post
 title: "NFL Draft 2018: First Round Review"
 date: 2018-04-27 10:21:50 -0600
 categories: articles
-tags: [sports, sports analytics, nfl draft]
-image:
-  feature: texture-feature-03.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+tags: sports sportsanalytics nfldraft python
 ---
 
 
