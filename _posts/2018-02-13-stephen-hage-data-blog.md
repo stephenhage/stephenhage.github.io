@@ -18,6 +18,8 @@ I'm also a nerd about learning new cultures. As an undergrad I was fortunate to 
 
 Undoubtedly, as time passes, other interests will emerge on this page. I'm sure, as elections approach, I'll do some political analysis. Living in Chicago, I'll surely look at crime statistics and try to propose solutions. If I have my way, in the future I'll build some tools to study media bias.
 
+[![WestNileVirus Presentation](https://raw.githubusercontent.com/stephenhage/stephenhage.github.io/master/images/WNV/SMARRT_Vid_Thumbnail.PNG)]https://youtu.be/Gl2StkLlVqU "SMARRT Consulting WNV")
+
 # Data Skills
 
 
