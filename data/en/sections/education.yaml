@@ -1,0 +1,83 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: M.Sc. in Predictive Analytics
+  icon: fa-microscope
+  timeframe: 2014-2019
+  institution:
+    name: Northwestern University
+    url: "https://sps.northwestern.edu/masters/data-science/"
+  grade: #(optional)
+    scale: GPA
+    achieved: 3.7
+    outOf: 4
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    courses:
+    - name: Math for Modelers
+      # achieved: 3.75
+      # outOf: 4
+    - name: Database Systems
+      # achieved: 3.75
+      # outOf: 4
+    - name: Practical Machine Learning
+      # achieved: 3.75
+      # outOf: 4
+    - name: Project Management
+      # achieved: 3.75
+      # outOf: 4
+    - name: Advanced Modeling Techniques
+      # achieved: 3.80
+      # outOf: 4
+    - name: Artificial Intelligence and Deep Learning
+      # achieved: 3.5
+      # outOf: 4
+    - name: Time Series and Forecasting
+      # achieved: 3.75
+      # outOf: 4
+- name: B.Sc. in Business Operationss
+  icon: fa-graduation-cap
+  timeframe: 2002-2006
+  institution:
+    name: Indiana University
+    url: "https://kelley.iu.edu"
+  grade: #(optional)
+    scale: GPA
+    achieved: 3.3
+    outOf: 4
+  # takenCourses: #(optional)
+  #   # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+  #   showGrades: true
+  #   courses:
+  #   - name: Data Structures and Algorithm
+  #     achieved: 3.75
+  #     outOf: 4
+  #   - name: Network Security
+  #     achieved: 3.80
+  #     outOf: 4
+  #   - name: Operating System
+  #     achieved: 3.5
+  #     outOf: 4
+  #   - name: Artificial Intelligent
+  #     achieved: 3.75
+  #     outOf: 4
+  # publications: #(optional)
+  # - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  #   url: "#"
+  # - title: Fusce eu augue ut odio porttitor pulvinar.
+  #   url: "#"
+  # extracurricularActivities: #(optional)
+  # - In vitae facilisis est, eget porta sem.
+  # - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
+  # - Duis sed massa feugiat, ornare justo et, aliquam est.
+  # - Pellentesque ut fringilla magna.
