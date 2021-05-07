@@ -28,6 +28,21 @@ experiences:
     - Presented exploratory data analysis findings to execs on both the above projects, which proved viability of the project and was a vital part of client authorization of the machine learning projects
 
 - company:
+    name: Trilogy
+    url: "https://www.trilogyed.com/"
+    location: Dallas, TX
+    # company overview
+    overview: Today’s Workforce Needs. Tomorrow’s Skills.
+  positions:
+  - designation: Bootcamp Instructor 
+    start: March 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Substitute taught live-instruction courses for professionals in machine learning, visualization, and front-end skills
+
+- company:
     name: Elicit Insights
     url: "https://www.elicitinsights.com"
     location: Chicago, IL
