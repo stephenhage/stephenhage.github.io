@@ -15,7 +15,7 @@ company:
   url: "https://www.dialexa.com"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/Stephen Hage DS Instruction Resume.pdf"
+resume: "files/resume.pdf"
 
 # a summary about you
 summary: 'Lorem ipssum'
