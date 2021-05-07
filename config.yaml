@@ -33,7 +33,7 @@ enableEmoji: true
 params:
   # GitHub repo URL and branch of your site
   gitRepo: https://github.com/stephenhage.github.io
-  gitBranch: main
+  gitBranch: site
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: true
